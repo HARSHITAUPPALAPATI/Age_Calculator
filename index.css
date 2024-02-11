@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: rgb(195, 103, 103);
+    color: rgb(15, 9, 9); /* Set text color to white for better visibility on a dark background */
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+#result {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+label {
+    color: white; /* Set label text color to white */
+}
